@@ -1,6 +1,6 @@
 Javascript is a Synchronous language - runs one statement at a time...from top to bottom.
 
-Imagine running multiple codes and in the middle you wat to fetch data from database. 
+Imagine running multiple codes and in the middle you want to fetch data from database. 
 This process in synchronous programming will take time and block the codes beneath from running.
 This is called code blocking and it is a con of synchronous code 
 
