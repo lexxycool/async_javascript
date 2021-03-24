@@ -5,8 +5,8 @@ This process in synchronous programming will take time and block the codes benea
 This is called code blocking and it is a con of synchronous code 
 
 Asyc Javascript
-    - governs how we perform tasks wchich takes time to finish.
-    -eg fecthcing data from an api or a database.
+    - governs how we perform tasks which takes time to finish.
+    -eg fetching data from an api or a database.
 
     START SOMETHING NOW FINISH IT LATER
 
